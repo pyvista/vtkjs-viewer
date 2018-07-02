@@ -9,7 +9,7 @@ The vtk.js web viewer can be found [here](https://kitware.github.io/vtk-js/examp
 - [UBC Octree Mesh Example](http://octree.pvgeo.org)
 - [*PVGeo* Slicing Filter Example](http://viewer.pvgeo.org/?fileURL=https://dl.dropbox.com/s/c32rkvo05b4a8wl/Slice-Model-Along-PolyLine.vtkjs?dl=0)
 - [Fluvial Channels](http://viewer.pvgeo.org/?fileURL=https://dl.dropbox.com/s/qnahdwedjwndo7t/fluvsim_channels.vtkjs?dl=0)
-- [Volcano Scene](http://volcano.viewer.pvgeo.org)
+- [Volcano Scene](http://volcano.pvgeo.org)
 - [Brady's Geothermal Project](http://bradys.pvgeo.org)
 - [Tunnels and Geostat Model](http://tunnels.viewer.pvgeo.org)
 
