@@ -11,5 +11,5 @@ The vtk.js web viewer can be found [here](https://kitware.github.io/vtk-js/examp
 - [Fluvial Channels](http://viewer.pvgeo.org/?fileURL=https://dl.dropbox.com/s/qnahdwedjwndo7t/fluvsim_channels.vtkjs?dl=0)
 - [Volcano Scene](http://volcano.pvgeo.org)
 - [Brady's Geothermal Project](http://bradys.pvgeo.org)
-- [Tunnels and Geostat Model](http://tunnels.viewer.pvgeo.org)
+- [Tunnels and Geostat Model](http://tunnels.pvgeo.org)
 
