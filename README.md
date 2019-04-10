@@ -1,4 +1,4 @@
-# Viewer-VTKjs
+# VTKjs Viewer
 This repo is strictly for the purpose of hosting the vtk.js standalone web viewer on the domain [viewer.vtki.org](http://viewer.vtki.org) for demonstrarting features of the [`vtki`](http://docs.vtki.org) and [*PVGeo*](https://github.com/OpenGeoVis/PVGeo) projects
 
 The vtk.js web viewer can be found [here](https://kitware.github.io/vtk-js/examples/StandaloneSceneLoader.html) and was created by Kitware (Copyright (c) 2016, Kitware Inc.). We are simply hosting it on this repository for use until we finish developing our own robust viewer.
