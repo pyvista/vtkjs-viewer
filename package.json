@@ -1,0 +1,37 @@
+{
+  "name": "standalone-scene-viewer",
+  "version": "1.0.0",
+  "description": "a standalone vtk.js scene viewer",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "webpack --progress --colors --mode development",
+    "build:release": "webpack --progress --colors --mode production",
+    "start": "webpack-dev-server --content-base ./dist",
+    "commit": "git cz",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyvista/vtkjs-viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyvista/vtkjs-viewer/issues"
+  },
+  "homepage": "https://github.com/pyvista/vtkjs-viewer#readme",
+  "dependencies": {
+    "vtk.js": "^14.15.5"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-inline-source-plugin": "^1.0.0-beta.2",
+    "html-webpack-plugin": "^4.3.0",
+    "kw-web-suite": "^10.0.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
