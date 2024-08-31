@@ -31,7 +31,7 @@
     "html-webpack-inline-source-plugin": "^1.0.0-beta.2",
     "html-webpack-plugin": "^4.3.0",
     "kw-web-suite": "^10.0.0",
-    "webpack": "^4.44.1",
+    "webpack": "^5.94.0",
     "webpack-cli": "^3.3.12"
   }
 }
