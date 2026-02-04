@@ -30,7 +30,7 @@
     "clean-webpack-plugin": "^3.0.0",
     "html-webpack-inline-source-plugin": "^1.0.0-beta.2",
     "html-webpack-plugin": "^4.3.0",
-    "kw-web-suite": "^10.0.0",
+    "kw-web-suite": "^11.1.0",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }
